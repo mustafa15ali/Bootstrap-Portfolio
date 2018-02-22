@@ -209,6 +209,10 @@ body {
     margin-bottom: 10px;
   }
   
+  ul {
+    list-style-type: none;
+  }
+
   label,
   input[type=text],
   input[type=email],
@@ -238,4 +242,5 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
   
