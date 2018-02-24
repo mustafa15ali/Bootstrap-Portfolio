@@ -5,3 +5,21 @@ body {
     color: #777;
     background-image: url("../images/cork-wallet.png");;
   }
+
+    /* general */
+
+  h1,
+  h2,
+  h3,
+  p {
+    margin-bottom: 20px;
+  }
+
+  h1,
+  h2,
+  h3,
+  #heading {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+  }
