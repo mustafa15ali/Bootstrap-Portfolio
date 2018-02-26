@@ -51,12 +51,21 @@ body {
 
   /* Side Bar */
 
+  .panel-body {
+    padding-bottom: 2px;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin: 5px;
+    border: 2px
+  }
+
   .social {
     width: 62px;
     height: 62px;
     margin-top: 8px;
     margin-right: 5px;
   }
+
 
   /* Images */
 
