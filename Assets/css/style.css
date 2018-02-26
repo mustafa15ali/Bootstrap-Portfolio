@@ -51,6 +51,12 @@ body {
     margin-right: 5px;
   }
 
+  /* Images */
+
+  img {
+    max-width: 100%
+  }
+
 /* Media Queries */
 
 @media only screen and (orientation: landscape) {
