@@ -7,7 +7,11 @@ body {
   }
 
     /* general */
-
+  #log {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #777;
+  }
   h1,
   h2,
   h3,
@@ -24,6 +28,22 @@ body {
     color: #4aaaa5;
   }
 
+  #myNavbar {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #aecfce;
+
+  }
+
   ul {
     list-style-type: none;
   }
+
+  /* Side Bar */
+  .social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+  }
+
